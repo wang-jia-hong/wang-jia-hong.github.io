@@ -26,16 +26,16 @@
       border: px solid white;
     }
 
-    body,html{
+    body,html {
       height: 100%;
       font-family: "Microsoft JhengHei"
     }
-    .all{
+    .all {
       height: 100%;
       display: flex;
       flex-direction: column;
     }
-    .banner{
+    .banner {
       flex: 1;
       display: flex;
       flex-direction: column;
@@ -45,7 +45,7 @@
       color: #3F5D45;
       background-color: #EAF0ED;
     }
-    .text{
+    .text {
       display: flex;
       flex: 0 0 80px;
       align-items: center;
