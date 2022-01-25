@@ -31,15 +31,10 @@
       background-color: #FF9500;
       padding: 0
     }
-    img {
-      margin: 0 auto;
+    .image {
+      width: 20%;
+      height: auto;
     }
-    #banner {
-      width: 800px;
-      height: 100px;
-      background-color: coral;
-      clear:both;
-      position:fixed;
     }
     .h1{
       color:#d9ab5d;
