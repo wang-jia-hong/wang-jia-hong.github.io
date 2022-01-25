@@ -19,12 +19,18 @@
       text-decoration: none;
     }
     body {
-      margin: 0px;
-      font-family: "Microsoft JhengHei"
+      margin: 0p;
+      font-family:"Microsoft JhengHei";
+      height: 100%;
+      display: flex;
+      flex-direction: column;
     }
     .banner {
-      display: flex;
       flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
       height: 100%;
       align-items: center;
       justify-content: center;
