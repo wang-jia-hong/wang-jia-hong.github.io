@@ -23,11 +23,8 @@
       font-family:"Microsoft JhengHei";
     }
     .banner {
-      align-items: center;
-      justify-content: center;
+      text-align:center
       height: 100vw;
-      align-items: center;
-      justify-content: center;
       font-size: 6.2em;
       font-weight: bold;
       color: #3F5D45;
