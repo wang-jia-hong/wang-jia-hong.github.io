@@ -18,17 +18,8 @@
       background-color: transparent;
       text-decoration: none;
     }
-    table {
-      background-color: #69bea5;
-      margin: -8px
-    }
-    th, td {
-      border: px solid white;
-    }
-
-    body,html {
-       margin: 0px;
-      height: 100%;
+    body {
+      margin: 0px;
       font-family: "Microsoft JhengHei"
     }
     .banner {
