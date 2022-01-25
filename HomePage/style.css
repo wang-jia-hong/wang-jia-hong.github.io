@@ -28,7 +28,7 @@
 
     body {
       margin: 0 auto;
-      background-color: #FF9500;
+      background-color: #FFFFFF;
       padding: 0
     }
     .image {
@@ -36,6 +36,6 @@
       height: auto;
     }
     }
-    .h1{
-      color:#d9ab5d;
+    .banner {
+      background-color: coral;
     }
