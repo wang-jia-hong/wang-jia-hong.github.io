@@ -21,17 +21,11 @@
     body {
       margin: 0p;
       font-family:"Microsoft JhengHei";
-      height: 100%;
-      display: flex;
-      flex-direction: column;
     }
     .banner {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
       align-items: center;
       justify-content: center;
-      height: 100%;
+      height: 1000%;
       align-items: center;
       justify-content: center;
       font-size: 6.2em;
