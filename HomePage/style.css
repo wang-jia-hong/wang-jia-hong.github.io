@@ -36,9 +36,12 @@
     }
     .bodywindow {
         width: 100%;
-        height: auto;
+        height: 100%;
+        display: flex;
     }
     .textwindow { 
+        flex: 1;
+        display: flex;
         float: left;
         width: 60%;
         height: 100%
