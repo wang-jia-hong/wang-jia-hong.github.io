@@ -23,17 +23,24 @@
       font-family:"Microsoft JhengHei";
     }
     .banner {
-      text-align:center;
-      height: 120vh;
-      font-size: 6.2em;
-      font-weight: bold;
-      color: #3F5D45;
-      background-color: #EAF0ED;
+        text-align:center;
+        height: 120vh;
+        font-size: 6.2em;
+        font-weight: bold;
+        color: #3F5D45;
+        background-color: #EAF0ED;
     }
-    .text {
-
+    .text { 
+        float: left;
+        width: 60%;
+        padding: 0 20vh;
     }
     .p {
         margin: 0px;
         line-height: 120vh;
+    }
+    .img{
+        float: left;
+        width: 40%;
+        height: auto;
     }
