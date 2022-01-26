@@ -44,7 +44,6 @@
         display: flex;
         float: left;
         width: 60%;
-        height: 100%;
         background-color: #008080;
     }
     .text {
@@ -58,3 +57,4 @@
     .img{
         width: 100%;
         height: auto;
+    }
