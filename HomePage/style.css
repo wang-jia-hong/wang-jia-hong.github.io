@@ -30,17 +30,23 @@
         color: #3F5D45;
         background-color: #EAF0ED;
     }
-    .text { 
+    .textwindow { 
         float: left;
         width: 60%;
         padding: 0 20vh;
+    }
+    .text {
+        width:80%
     }
     .p {
         margin: 0px;
         line-height: 120vh;
     }
-    .img{
+    .imgwindows{
         float: left;
         width: 40%;
         height: auto;
     }
+    .img{
+        width:100%;
+        height: auto;
