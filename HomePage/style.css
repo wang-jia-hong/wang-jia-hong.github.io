@@ -36,7 +36,8 @@
         padding: 0 20vh;
     }
     .text {
-        width:80%
+        width:80%;
+        background-color: #3378f2;
     }
     .p {
         margin: 0px;
