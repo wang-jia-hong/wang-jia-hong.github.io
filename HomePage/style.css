@@ -30,19 +30,23 @@
         color: #3F5D45;
         background-color: #EAF0ED;
     }
-    .textwindow { 
-        float: left;
-        width: 60%;
-    }
-    .text {
-        width:80%;
-        background-color: #3378f2;
-    }
     .h1 {
         margin: 0px;
         line-height: 120vh;
     }
-    .imgwindows{
+    .bodywindow {
+        width: 100%;
+        height: auto;
+    }
+    .textwindow { 
+        float: left;
+        width: 60%;
+        background-color: #3378f2;
+    }
+    .text {
+        width:80%;
+    }
+    .imgwindow{
         float: left;
         width: 40%;
         height: auto;
