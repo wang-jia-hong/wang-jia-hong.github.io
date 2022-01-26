@@ -45,12 +45,14 @@
         float: left;
         width: 60%;
         background-color: #008080;
+        justify-content: center;
     }
     .text {
         width40%;
         display: flex;
         flex-direction: column;
         align-items: center;
+        justify-content: center;
     }
     .imgwindow{
         float: left;
